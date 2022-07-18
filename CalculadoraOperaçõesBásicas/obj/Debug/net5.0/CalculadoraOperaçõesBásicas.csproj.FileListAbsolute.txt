@@ -1,0 +1,16 @@
+C:\Users\Henrique\Documents\Atividades Generation\CalculadoraOperaçõesBásicas\CalculadoraOperaçõesBásicas\bin\Debug\net5.0\CalculadoraOperaçõesBásicas.exe
+C:\Users\Henrique\Documents\Atividades Generation\CalculadoraOperaçõesBásicas\CalculadoraOperaçõesBásicas\bin\Debug\net5.0\CalculadoraOperaçõesBásicas.deps.json
+C:\Users\Henrique\Documents\Atividades Generation\CalculadoraOperaçõesBásicas\CalculadoraOperaçõesBásicas\bin\Debug\net5.0\CalculadoraOperaçõesBásicas.runtimeconfig.json
+C:\Users\Henrique\Documents\Atividades Generation\CalculadoraOperaçõesBásicas\CalculadoraOperaçõesBásicas\bin\Debug\net5.0\CalculadoraOperaçõesBásicas.runtimeconfig.dev.json
+C:\Users\Henrique\Documents\Atividades Generation\CalculadoraOperaçõesBásicas\CalculadoraOperaçõesBásicas\bin\Debug\net5.0\CalculadoraOperaçõesBásicas.dll
+C:\Users\Henrique\Documents\Atividades Generation\CalculadoraOperaçõesBásicas\CalculadoraOperaçõesBásicas\bin\Debug\net5.0\CalculadoraOperaçõesBásicas.pdb
+C:\Users\Henrique\Documents\Atividades Generation\CalculadoraOperaçõesBásicas\CalculadoraOperaçõesBásicas\obj\Debug\net5.0\CalculadoraOperaçõesBásicas.csproj.AssemblyReference.cache
+C:\Users\Henrique\Documents\Atividades Generation\CalculadoraOperaçõesBásicas\CalculadoraOperaçõesBásicas\obj\Debug\net5.0\CalculadoraOperaçõesBásicas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Henrique\Documents\Atividades Generation\CalculadoraOperaçõesBásicas\CalculadoraOperaçõesBásicas\obj\Debug\net5.0\CalculadoraOperaçõesBásicas.AssemblyInfoInputs.cache
+C:\Users\Henrique\Documents\Atividades Generation\CalculadoraOperaçõesBásicas\CalculadoraOperaçõesBásicas\obj\Debug\net5.0\CalculadoraOperaçõesBásicas.AssemblyInfo.cs
+C:\Users\Henrique\Documents\Atividades Generation\CalculadoraOperaçõesBásicas\CalculadoraOperaçõesBásicas\obj\Debug\net5.0\CalculadoraOperaçõesBásicas.csproj.CoreCompileInputs.cache
+C:\Users\Henrique\Documents\Atividades Generation\CalculadoraOperaçõesBásicas\CalculadoraOperaçõesBásicas\obj\Debug\net5.0\CalculadoraOperaçõesBásicas.dll
+C:\Users\Henrique\Documents\Atividades Generation\CalculadoraOperaçõesBásicas\CalculadoraOperaçõesBásicas\obj\Debug\net5.0\refint\CalculadoraOperaçõesBásicas.dll
+C:\Users\Henrique\Documents\Atividades Generation\CalculadoraOperaçõesBásicas\CalculadoraOperaçõesBásicas\obj\Debug\net5.0\CalculadoraOperaçõesBásicas.pdb
+C:\Users\Henrique\Documents\Atividades Generation\CalculadoraOperaçõesBásicas\CalculadoraOperaçõesBásicas\obj\Debug\net5.0\CalculadoraOperaçõesBásicas.genruntimeconfig.cache
+C:\Users\Henrique\Documents\Atividades Generation\CalculadoraOperaçõesBásicas\CalculadoraOperaçõesBásicas\obj\Debug\net5.0\ref\CalculadoraOperaçõesBásicas.dll
